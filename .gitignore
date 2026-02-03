@@ -28,3 +28,40 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+# Visual Studio cache/options
+.vs/
+.vscode/
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Build results
+*.dll
+*.exe
+*.pdb
+# NuGet Packages
+*.nupkg
+packages/
+# Windows image file caches
+Thumbs.db
+Desktop.ini
+# Recycle Bin
+$RECYCLE.BIN/
