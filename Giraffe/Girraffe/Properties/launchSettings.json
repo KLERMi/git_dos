@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Girraffe": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

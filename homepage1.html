@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ideal Bank | The Future of Money</title>
+    <style>
+        :root {
+            --primary: #8a2be2;
+            --accent: #00f2ff;
+            --bg: #0a0a0c;
+            --card: rgba(255, 255, 255, 0.05);
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: white;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .glass-card {
+            background: var(--card);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            padding: 3rem;
+            text-align: center;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+            max-width: 500px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(45deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p {
+            color: #b0b0b0;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+        }
+
+        .btn {
+            background: linear-gradient(45deg, var(--primary), var(--accent));
+            color: white;
+            padding: 12px 32px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: inline-block;
+        }
+
+            .btn:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 0 20px rgba(138, 43, 226, 0.5);
+            }
+
+        .stats {
+            margin-top: 2rem;
+            display: flex;
+            justify-content: space-around;
+            font-size: 0.9rem;
+            color: var(--accent);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="glass-card">
+        <h1>IDEAL BANK</h1>
+        <p>Your assets, evolved. Experience the world's first multi-asset liquidity platform with zero-latency transfers and AI-driven wealth growth.</p>
+
+        <a href="#" class="btn">Launch Dashboard</a>
+
+        <div class="stats">
+            <div>● Secure</div>
+            <div>● Decentralized</div>
+            <div>● 24/7 AI Support</div>
+        </div>
+    </div>
+
+</body>
+</html>

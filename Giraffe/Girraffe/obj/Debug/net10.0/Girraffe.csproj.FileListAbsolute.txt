@@ -1,0 +1,29 @@
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\bin\Debug\net10.0\Girraffe.exe
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\bin\Debug\net10.0\Girraffe.deps.json
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\bin\Debug\net10.0\Girraffe.runtimeconfig.json
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\bin\Debug\net10.0\Girraffe.dll
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\bin\Debug\net10.0\Girraffe.pdb
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\Girraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\Girraffe.AssemblyInfoInputs.cache
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\Girraffe.AssemblyInfo.cs
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\Girraffe.csproj.CoreCompileInputs.cache
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\Girraffe.dll
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\refint\Girraffe.dll
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\Girraffe.pdb
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\Girraffe.genruntimeconfig.cache
+C:\Users\OMODELEC\source\repos\Girraffe\Girraffe\obj\Debug\net10.0\ref\Girraffe.dll
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\bin\Debug\net10.0\Girraffe.exe
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\bin\Debug\net10.0\Girraffe.deps.json
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\bin\Debug\net10.0\Girraffe.runtimeconfig.json
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\bin\Debug\net10.0\Girraffe.dll
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\bin\Debug\net10.0\Girraffe.pdb
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.AssemblyInfoInputs.cache
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.AssemblyInfo.cs
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.csproj.CoreCompileInputs.cache
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.sourcelink.json
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.dll
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\refint\Girraffe.dll
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.pdb
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\Girraffe.genruntimeconfig.cache
+C:\Users\OMODELEC\OneDrive - Access Bank PLC\Documents\Git\git_dos\Giraffe\Girraffe\obj\Debug\net10.0\ref\Girraffe.dll

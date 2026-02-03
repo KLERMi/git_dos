@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAR5ywd8tL4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OMODELEC\\OneDrive - Access Bank PLC\\Documents\\Git\\git_dos\\Giraffe\\Girraffe\\Girraffe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OMODELEC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

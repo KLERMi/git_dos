@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMODELEC\\OneDrive - Access Bank PLC\\Documents\\Git\\git_dos\\Giraffe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38510E64-FB27-C87C-4C08-F529795DB2AF}|Girraffe\\Girraffe.csproj|c:\\users\\omodelec\\onedrive - access bank plc\\documents\\git\\git_dos\\giraffe\\girraffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38510E64-FB27-C87C-4C08-F529795DB2AF}|Girraffe\\Girraffe.csproj|solutionrelative:girraffe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OMODELEC\\OneDrive - Access Bank PLC\\Documents\\Git\\git_dos\\Giraffe\\Girraffe\\Program.cs",
+              "RelativeDocumentMoniker": "Girraffe\\Program.cs",
+              "ToolTip": "C:\\Users\\OMODELEC\\OneDrive - Access Bank PLC\\Documents\\Git\\git_dos\\Giraffe\\Girraffe\\Program.cs",
+              "RelativeToolTip": "Girraffe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:29:48.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
