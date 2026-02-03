@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "accept_input": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
