@@ -37,7 +37,7 @@ namespace IdealBank
             Console.WriteLine("TRANSACTION SUCCESSFUL");
             Console.WriteLine($"New Balance for {accountHolder}: ${newBalance}");
             Console.WriteLine("------------------------------------------");
-
+            // added this line to check synch
             // Prevents the console from closing until user presses Enter
             Console.WriteLine("\nPress [Enter] to exit the bank system...");
             Console.ReadLine();
